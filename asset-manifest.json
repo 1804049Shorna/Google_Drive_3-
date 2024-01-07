@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/1804049Shorna/Google_Drive_3-/static/css/main.4128719d.css",
+    "main.js": "/1804049Shorna/Google_Drive_3-/static/js/main.af3c95e2.js",
+    "static/js/787.d5fa4d18.chunk.js": "/1804049Shorna/Google_Drive_3-/static/js/787.d5fa4d18.chunk.js",
+    "index.html": "/1804049Shorna/Google_Drive_3-/index.html",
+    "main.4128719d.css.map": "/1804049Shorna/Google_Drive_3-/static/css/main.4128719d.css.map",
+    "main.af3c95e2.js.map": "/1804049Shorna/Google_Drive_3-/static/js/main.af3c95e2.js.map",
+    "787.d5fa4d18.chunk.js.map": "/1804049Shorna/Google_Drive_3-/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4128719d.css",
+    "static/js/main.af3c95e2.js"
+  ]
+}
